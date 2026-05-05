@@ -17,6 +17,8 @@ PagoTrack lo usamos todos los días en Nuveo, y **vos sos quien mejor sabe dónd
 
 ---
 
+
+
 ## ¿Encontraste algo que no funciona como debería? ¿Se te ocurrió una mejora?
 
 ¡Genial! Acá te contamos cómo avisarnos.
@@ -115,6 +117,20 @@ Si lo cargás vos en GitHub, el título es lo primero que se ve. Que sea **corto
 Si te animás, dale una mirada rápida a [los issues existentes](https://github.com/cloudallytech/pagotrack.nuveo/issues?q=is%3Aissue) buscando alguna palabra clave. Si encontrás algo parecido a lo tuyo, sumá un comentario contando tu caso en vez de abrir uno nuevo — así no se duplica el trabajo.
 
 Si no encontrás nada o no estás seguro, abrí uno igual. Mejor que sobre a que falte.
+
+
+## ¿Sos técnico? Mirá el código y aportá
+
+Una vez que tengas acceso al repositorio privado, **no te quedes solo con reportar**: el código de PagoTrack está disponible para que lo revises, consultes y propongas cambios.
+
+- **Revisar el código:** podés navegar libremente por el repositorio para entender cómo funciona cada parte.
+- **Hacer preguntas:** si algo no te queda claro — una decisión de diseño, un módulo, un flujo — preguntá. Las dudas también se cargan como issues (tipo "Pregunta") o las charlás directamente con `juampaweb` por Discord.
+- **Reportar vulnerabilidades:** si detectás algún problema de seguridad (manejo de credenciales, permisos, validaciones, exposición de datos), avisanos **en privado** a `juampaweb` por Discord o a jsosa@nuveo.cloud antes de abrir un issue público.
+- **Sugerir mejoras de código:** refactors, optimizaciones, dependencias desactualizadas, código duplicado, tests que faltan — todo aporte suma. Abrí un issue del tipo "Mejora" o, si te animás, mandá directamente un Pull Request.
+
+Cualquier mirada extra al código nos ayuda a hacer el sistema más robusto y seguro para todo Nuveo.
+
+---
 
 ## En resumen
 
